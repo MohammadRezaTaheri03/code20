@@ -1,1 +1,2 @@
 Hello B
+second line added and some bugs fixed.
